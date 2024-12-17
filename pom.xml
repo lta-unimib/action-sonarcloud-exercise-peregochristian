@@ -15,6 +15,7 @@
     <maven.compiler.source>17</maven.compiler.source>  <!-- Usa Java 17 -->
     <maven.compiler.target>17</maven.compiler.target>  <!-- Usa Java 17 -->
   	<sonar.organization>se-unimib</sonar.organization>
+  	<sonar.projectKey>lta-unimib_action-sonarcloud-exercise-ilaariest</sonar.projectKey>
   	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
   </properties>
